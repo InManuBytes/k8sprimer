@@ -14,7 +14,9 @@ Through a mix of lectures and mini-challenges, you’ll learn how Kubernetes wor
 </p></details>
 <details><summary>Getting started</summary><p>
 
-During the workshop, we will provide a cluster configuration file to all participants. Use this file for the [first setup challenge.](/challenges/k8s_setup/007.md)
+Download the [challenge files](challenges_files.zip) compressed in [challenges_files.zip](challenges_files.zip) . Extract its content in your working directory. 
+
+During the workshop, we will provide a cluster configuration file to participants. Save your config file in your working directory and use it for the [first setup challenge.](/challenges/k8s_setup/007.md)
 
 </p></details>
 
