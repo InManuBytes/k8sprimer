@@ -7,8 +7,9 @@ Through a mix of lectures and mini-challenges, you’ll learn how Kubernetes wor
 - Laptop / Desktop
 - Internet Connection
 - **Tools**
-  - Modern Terminal
+  - Modern Terminal or PowerShell for Windows
   - Modern Web Browser
+  - [kubectl](https://kubernetes.io/docs/tasks/tools/)
   - [Semgrep](https://semgrep.dev/docs/getting-started/)
 
 </p></details>
