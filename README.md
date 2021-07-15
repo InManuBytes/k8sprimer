@@ -4,8 +4,13 @@ Kubernetes Primer with OWASP DevSlop is a hands-on, interactive workshop and min
 Through a mix of lectures and mini-challenges, you’ll learn how Kubernetes works.  We will hack and break our clusters and then learn how to fix the underlying security issues.
 <details><summary>What will you need?</summary><p>
 
-- a
-- b
+- Laptop / Desktop
+- Internet Connection
+- **Tools**
+  - Modern Terminal
+  - Modern Web Browser
+  - [Semgrep](https://semgrep.dev/docs/getting-started/)
+
 </p></details>
 
 <details><summary>K8S Setup Challenges</summary><p>
