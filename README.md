@@ -12,6 +12,11 @@ Through a mix of lectures and mini-challenges, you’ll learn how Kubernetes wor
   - [Semgrep](https://semgrep.dev/docs/getting-started/)
 
 </p></details>
+<details><summary>Getting started</summary><p>
+
+During the workshop, we will provide a cluster configuration file to all participants. Use this file for the [first setup challenge.](/challenges/k8s_setup/007.md)
+
+</p></details>
 
 <details><summary>K8S Setup Challenges</summary><p>
 
