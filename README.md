@@ -11,6 +11,8 @@ Through a mix of lectures and mini-challenges, you’ll learn how Kubernetes wor
   - Modern Web Browser
   - [kubectl](https://kubernetes.io/docs/tasks/tools/)
   - [Semgrep](https://semgrep.dev/docs/getting-started/)
+  - [Docker](https://www.docker.com/products/docker-desktop)
+  
 
 </p></details>
 <details><summary>Getting started</summary><p>
