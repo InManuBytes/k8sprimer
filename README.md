@@ -25,6 +25,15 @@ When you receive your config file, save it in your working directory and use it 
 
 </p></details>
 
+<details><summary>K8S Pre-setup Challenges / Lectures </summary><p>
+
+- [K8S Pre-setup: History of Virtualization](https://devslop.ctfd.io/challenges#Challenge%201-23)
+- [K8S Pre-setup: Overview of Docker/Containers](https://devslop.ctfd.io/challenges#Challenge%202-24)
+- [K8S PreSetup: What is container orchestration?](https://devslop.ctfd.io/challenges#Challenge%203-25)
+- [K8S Pre-setup: History of Kubernetes Project](https://devslop.ctfd.io/challenges#Challenge%204-26)
+- [K8S Pre-setup: Kubernetes Concepts and Architecture](https://devslop.ctfd.io/challenges#Challenge%205-27)
+- [K8S PreSetup: Kubernetes Objects & Organization](https://devslop.ctfd.io/challenges#Challenge%206-28)
+</p></details>
 <details><summary>K8S Setup Challenges</summary><p>
 
 - [K8S Setup: Log into Kubernetes](/challenges/k8s_setup/007.md)
@@ -46,7 +55,7 @@ When you receive your config file, save it in your working directory and use it 
 </p></details>
 
 <details><summary>K8S Security Challenges</summary><p>
-
+- [K8S PreSetup: Kubernetes AuthN / AuthZ Overview](/challenges/k8s_setup/010.md)
 - [K8S Security: Finding Credentials in Code](/challenges/k8s_security/016.md)
 - [K8S Security: Fixing Secrets in Code](/challenges/k8s_security/017.md)
 - [K8S Security: Exploiting SSRF in Kubernetes](/challenges/k8s_security/018.md)
@@ -59,6 +68,7 @@ When you receive your config file, save it in your working directory and use it 
 - [K8S Security: OPA Rules to Constrain Resources](/challenges/k8s_security/026.md)
 - [K8S Security: Bad Crypto Miner Image](/challenges/k8s_security/027.md)
 - [K8S Security: Image Vulnerability](/challenges/k8s_security/028.md)
+- [K8S PreSetup: What is Open Policy Agent (OPA)?](/challenges/k8s_setup/010.md)
 - [K8S Security: OPA Rules to Restrict Image Origin](/challenges/k8s_security/029.md)
 - [K8S Security: Kube Bench (EKS Bench)](/challenges/k8s_security/030.md)
 
