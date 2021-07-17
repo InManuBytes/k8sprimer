@@ -55,6 +55,7 @@ When you receive your config file, save it in your working directory and use it 
 </p></details>
 
 <details><summary>K8S Security Challenges</summary><p>
+  
 - [K8S PreSetup: Kubernetes AuthN / AuthZ Overview](/challenges/k8s_setup/010.md)
 - [K8S Security: Finding Credentials in Code](/challenges/k8s_security/016.md)
 - [K8S Security: Fixing Secrets in Code](/challenges/k8s_security/017.md)
@@ -71,5 +72,5 @@ When you receive your config file, save it in your working directory and use it 
 - [K8S PreSetup: What is Open Policy Agent (OPA)?](/challenges/k8s_setup/010.md)
 - [K8S Security: OPA Rules to Restrict Image Origin](/challenges/k8s_security/029.md)
 - [K8S Security: Kube Bench (EKS Bench)](/challenges/k8s_security/030.md)
-
 </p></details>
+
